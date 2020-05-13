@@ -2,3 +2,4 @@ https://we.tl/t-bRrsU5Rk2Z   7Mayo  Casa Vieja
 https://we.tl/t-5ohOs1R0xF  8Mayo   Casa Vieja
 https://we.tl/t-Yt7dP1XYKA 13 Mayo  Casa Vieja
 https://we.tl/t-dnPipk2w5J 13 Mayo  Casa Vieja - se cambio el PATH de descarga a Application.dataPath+"/Imagenes/"+nombredentrodecarpeta+".png",texture2.EncodeToPNG()); 
+https://we.tl/t-D8I42QkbSo 13 Mayo  Casa Vieja   -aparte del path se muestra el texto descargado del API
